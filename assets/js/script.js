@@ -2,6 +2,7 @@ var currentPage = 1;
 var linksPerPage = 10;
 var links = [
     { text: "My portfolio", url: "https://nitinjangir013.github.io/myportfolio" },
+    { text: "My portfolio", url: "https://nitinjangir013.github.io/portfolio" },
     { text: "3D-Christmas-Tree", url: "https://nitinjangir013.github.io/3D-Christmas-Tree" },
     { text: "Calculator", url: "https://nitinjangir013.github.io/Calculator" }
 ];
